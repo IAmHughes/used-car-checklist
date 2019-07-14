@@ -1,6 +1,8 @@
 # Used car checklist
 Inspection checklist for buying a used car. Shoutout to [ChrisFix](https://www.youtube.com/chrisfix) for the original list.
 
+## Table of contents
+
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Used car checklist](#used-car-checklist)
