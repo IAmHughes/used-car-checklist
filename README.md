@@ -1,4 +1,4 @@
-# IAmMoving
+# Used car checklist
 An Inspection [checklist](https://github.com/IAmHughes/used-car-checklist/blob/master/CHECKLIST.md) to remind you of all the items to inspect when buying a used car
 
 ## Contributing
